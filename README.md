@@ -3,6 +3,7 @@
 Welcome to the official repository for **ABCRpred**, a machine learning-based computational tool developed for predicting ceftazidime-resistant and ceftazidime-sensitive bacterial strains using beta-lactamase protein sequences.
 
 Web Server: https://webs.iiitd.edu.in/raghava/abcrpred/
+ZENODO : https://doi.org/10.5281/zenodo.20096596
 
 ---
 
